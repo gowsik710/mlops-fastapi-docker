@@ -66,9 +66,3 @@ Cloud deployment
 CI/CD automation
 
 Production-style ML workflow
-
-This project represents junior–associate level MLOps experience and focuses on correct deployment practices rather than large-scale infrastructure.
-
-📎 Notes
-
-Advanced MLOps tools such as Kubernetes, MLflow, and Airflow are not included, as they are typically required only at large scale or senior-level roles.
