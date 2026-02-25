@@ -72,7 +72,3 @@ This project represents junior–associate level MLOps experience and focuses on
 📎 Notes
 
 Advanced MLOps tools such as Kubernetes, MLflow, and Airflow are not included, as they are typically required only at large scale or senior-level roles.
-
-✅ Conclusion
-
-This project successfully demonstrates how to take a machine learning model from development to production using modern MLOps practices, making it suitable for Junior–Associate MLOps and ML Engineer roles.
